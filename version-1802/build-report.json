@@ -1,0 +1,20 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2011,
+  "category_total": 2000,
+  "all_movie_ids_in_categories": true,
+  "jpg_files_in_output": [],
+  "baidu_missing_count": 0,
+  "baidu_missing": [],
+  "category_counts": {
+    "latest-japan-korea": 250,
+    "romance-drama": 250,
+    "suspense-crime": 250,
+    "fantasy-scifi": 250,
+    "comedy-healing": 250,
+    "action-adventure": 250,
+    "urban-family": 250,
+    "global-selection": 250
+  }
+}
